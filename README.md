@@ -8,7 +8,7 @@ In this Business Analytics Internship, I have learned how to make visualizations
    The dataset, meticulously curated for comprehensive analysis, contains an array of crucial fields including Passenger ID, First Name, Last Name, Gender, Age, Nationality, Airport Name, Airport Country Code, Country Name, Airport Continent, Continents, Departure Date, Arrival Airport, Pilot Name, and Flight Status. Each column contributes to a holistic understanding of passenger demographics, travel specifics, flight routes, crew details, and real-time flight statuses.
 
 ## DATASET LINK -
-https://drive.google.com/file/d/1in5omMSYozGRYVHhWdmVN-iKk_U_kJ2S/view?usp=drive_link
+https://drive.google.com/file/d/1in5omMSYozGRYVHhWdmVN-iKk_U_kJ2S/view?usp=sharing
 
 ## PRE-PROCESSED DATASET LINK -
 https://mnueeo5b8x4r65n.sg.qlikcloud.com/dataset/6655e8e91ce4e66bd152384f
